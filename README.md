@@ -1,4 +1,4 @@
-# TomatoLeafDiseaseDetection
+# Tomato Leaf Disease Detection
 Prediction of tomato leaf diseases using Le-Net 
 
      dataset.tar.gz - .jpg images of 10 classes of tomato leaves
